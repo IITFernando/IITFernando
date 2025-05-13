@@ -4,7 +4,7 @@
 
 🧠 Desarrollador web | 🎨 Diseñador gráfico | 📸 Fotógrafo | 🧬 Estudiante de Biotecnología | 📚 Inglés nivel A2 en curso (mejorando activamente)
 
-Me estoy relanzando profesionalmente tras mi jubilación, combinando mi experiencia como analista de sistemas con una fuerte actualización en tecnologías web, diseño visual y desarrollo frontend.
+Me estoy relanzando profesionalmente tras años de dedicarme a la docencia, combinando mi experiencia como analista de sistemas con una fuerte actualización en tecnologías web, diseño visual y desarrollo frontend.
 
 ---
 
