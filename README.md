@@ -10,7 +10,7 @@ Me estoy relanzando profesionalmente tras años de dedicarme a la docencia, comb
 
 ## 🚀 Mis áreas de trabajo
 
-- 🔭Desarrollo web (HTML, CSS, JavaScript, React, Node.js)
+- 🔭Desarrollo web (HTML, CSS, JavaScript, React, Node.js, PHP, Python)
 - 🔭DIseño y desarrollo de software en general.
 - 🔭Diseño gráfico y UI (Figma, Photoshop, diseño responsivo)
 - 🔭Fotografía artística y técnica
