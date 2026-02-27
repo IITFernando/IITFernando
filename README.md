@@ -1,43 +1,50 @@
-## Hi there 👋
+# Fernando Tula  
 
-# ¡Hola! 👋 Soy Fernando Tula
+🧠 Web Developer | 🎨 UI & Design | Systems Thinking  
+Rosario, Argentina  
 
-🧠 Desarrollador web | 🎨 Diseñador gráfico | 📸 Fotógrafo | 🧬 Estudiante de Biotecnología | 📚 Inglés nivel A2 en curso (mejorando activamente)
+I build clear, solid and well-structured digital solutions —  
+from professional websites to scalable web applications.
 
-Me estoy relanzando profesionalmente tras años de dedicarme a la docencia, combinando mi experiencia como analista de sistemas con una fuerte actualización en tecnologías web, diseño visual y desarrollo frontend.
+Desarrollo soluciones digitales claras y estructuradas,  
+desde sitios profesionales hasta aplicaciones web escalables.
 
 ---
 
-## 🚀 Mis áreas de trabajo
+## 🚀 What I Do
 
-- 🔭Desarrollo web (HTML, CSS, JavaScript, React, Node.js, PHP, Python)
-- 🔭DIseño y desarrollo de software en general.
-- 🔭Diseño gráfico y UI (Figma, Photoshop, diseño responsivo)
-- 🔭Fotografía artística y técnica
-- 🌱Aprendizaje continuo: actualmente estudio Biotecnología en la Universidad Nacional de Rosario. Programar seres inanimados ya sé, ahora quiero hacerlo con seres animados
-
-## 🗣️ Idiomas
-
-- Español (nativo)
-- Inglés A2 (en curso, mejorando día a día)
+- Professional websites with clean structure and responsive design  
+- Scalable web applications (React, Node.js, PHP, Python)  
+- UI/UX focused on clarity and usability  
+- Technical solutions built with long-term vision  
 
 ---
 
 ## 🌐 Portfolio
 
-👉 [Mi portfolio web en vivo](https://iitfernando.github.io/sitiowebOficial/)
+👉 https://iitfernando.github.io/sitiowebOficial/
 
 ---
 
-Gracias por pasar por mi perfil.  
-👯Estoy abierto a colaborar en proyectos, sumar valor desde la experiencia, y seguir aprendiendo siempre.
+## 🧩 Core Strengths
 
-<!--- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- Structured problem solving  
+- Clean architecture mindset  
+- Detail-oriented implementation  
+- Creative visual sensitivity  
+
+---
+
+## 🧠 How I Work
+
+I believe good software is not about complexity —  
+it’s about structure, clarity and intention.
+
+Trabajo con enfoque analítico, pero también con sensibilidad visual.
+
+---
+
+Always learning. Always building.  
+Siempre aprendiendo. Siempre creando.
+
 -->
